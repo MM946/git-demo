@@ -1,2 +1,6 @@
 hello git!!! master
 hi hi hi hot-fix
+<<<<<<< HEAD
+=======
+1111111
+>>>>>>> 54b455cfc41a6336a3a67a94a7fcda5f67877cdc
