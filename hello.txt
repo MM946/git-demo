@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hello git!!! master
-=======
 hi hi hi hot-fix
->>>>>>> hot-fix
